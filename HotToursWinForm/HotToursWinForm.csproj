@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MNE.Hot_Tours.BusinessLogic" Version="1.0.0" />
+    <PackageReference Include="BL_HotTours" Version="1.0.0" />
   </ItemGroup>
 
 </Project>

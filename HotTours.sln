@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotToursWinForm", "HotTours
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL_HotTours", "BL_HotTours\BL_HotTours.csproj", "{FC8B5BF4-1D25-4D6C-8FB7-4AE7DF9DB98F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotTours.BL.Tests", "HotTours.BL.Tests\HotTours.BL.Tests.csproj", "{8843AF10-3E31-401F-B781-F70323A4BA2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FC8B5BF4-1D25-4D6C-8FB7-4AE7DF9DB98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC8B5BF4-1D25-4D6C-8FB7-4AE7DF9DB98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC8B5BF4-1D25-4D6C-8FB7-4AE7DF9DB98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8843AF10-3E31-401F-B781-F70323A4BA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8843AF10-3E31-401F-B781-F70323A4BA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8843AF10-3E31-401F-B781-F70323A4BA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8843AF10-3E31-401F-B781-F70323A4BA2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
